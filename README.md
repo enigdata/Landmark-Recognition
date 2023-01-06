@@ -1,1 +1,1 @@
-# image_project
+# Landmark Recognition
